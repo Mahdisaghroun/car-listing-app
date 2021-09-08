@@ -121,7 +121,7 @@ input {
   border-radius: 11px;
   margin: 20px;
   border: 1px solid white;
-  width: 30%;
+  width: 80%;
   color: #fff;
 }
 .btn {
@@ -135,5 +135,9 @@ input {
 }
 input::placeholder {
   color: white;
-  opacity: 1; /* Firefox */
+  opacity: 1; 
+}
+.comments{
+  overflow: auto;
+  height: 600px;
 }

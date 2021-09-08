@@ -5,7 +5,7 @@ const Title = () => {
     <div className="title">
       <h1>Car App</h1>
 
-      <h2>Your Pictures</h2>
+      <h2>Car list</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
   );
